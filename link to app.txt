@@ -1,3 +1,4 @@
-Boston house price: https://shadowfox-fk6p2ugqnlkmomz7ak8ulj.streamlit.app/
+Boston house price: https://shadowfox-hvseohprvku67xp5y5m6xt.streamlit.app/
+
 
 Car Selling Prediction: https://shadowfox-gy9eu5uikfxzdibppymf8u.streamlit.app/
